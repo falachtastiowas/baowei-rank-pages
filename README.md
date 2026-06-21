@@ -1,2 +1,14 @@
 # baowei-rank-pages
-HTML page archive and documentation
+
+静态页面保存仓库
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
